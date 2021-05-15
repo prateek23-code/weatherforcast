@@ -1,0 +1,14 @@
+.raw{
+    background-color: aqua;
+    margin-top: 20%;
+    margin-left: 30%;
+}
+body{
+    background-color: aqua;
+}
+input[type="text"]{
+    width:30vw;
+    height:5vh;
+    border: 2px solid red;
+    border-radius: 3px;
+}
